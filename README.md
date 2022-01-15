@@ -147,7 +147,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like when people thnk they can bully me and in the end they get failed
 
 
-[![Miss Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=missemily2022)](https://github.com/missemily2022/github-readme-stats)
+![snake gif](https://github.com/missemily2022/missemily2022/raw/output/github-contribution-grid-snake.svg)
+
+
+[![Miss Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=missemily2022&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/missemily2022/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missemily2022&layout=compact)](https://github.com/missemily2022/github-readme-stats)
 
 
 <!--STARTS_HERE_QUOTE_README-->
