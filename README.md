@@ -203,7 +203,7 @@ Here are some ideas to get you started:
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   ❞</i>
+<i>❝“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :zap: Recent Activities:
