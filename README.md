@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything whch I dont know about
 - 🤔 I’m looking for help with nothing cuz I am lazy
 - 💬 Ask me about I am noob and lazy
-- 📫 How to reach me: @missemily on Telegram
+- 📫 How to reach me: @missemily2022 on Telegram
 - ⚡ Fun fact: I like when people thnk they can bully me and in the end they get failed
 
 
