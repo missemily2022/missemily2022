@@ -203,7 +203,7 @@ Here are some ideas to get you started:
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### :zap: Recent Activities:
